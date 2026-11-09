@@ -1,4 +1,4 @@
-# Kemper Rig Organizer — Downloads
+# Rig Organizer — Downloads
 
 Free desktop application for cataloging and organizing Kemper profile files.
 
@@ -10,7 +10,7 @@ Website: https://kemper-rig-organizer.netlify.app/
 
 Download the Windows x64 ZIP and its SHA-256 checksum from [Releases](https://github.com/Papacat2/kemper-rig-organizer-releases/releases).
 
-Extract the complete ZIP and open `KemperRigOrganizer/KemperRigOrganizer.exe`. Keep all accompanying files together. The .NET runtime is included. Five manuals are in the `Manuales` folder.
+Extract the complete ZIP and open `KemperRigOrganizer/RigOrganizer.exe`. Keep all accompanying files together. The .NET runtime is included. Five manuals are in the `Manuales` folder.
 
 This is a preview, not a stable release. Start with copies of a few profiles and use Copy mode after reviewing the organization plan. The Windows executable is not digitally signed.
 
@@ -18,7 +18,7 @@ This is a preview, not a stable release. Start with copies of a few profiles and
 
 Aplicación gratuita de escritorio para catalogar y organizar perfiles Kemper. Este repositorio solo contiene información pública y paquetes de distribución; el código de la aplicación se mantiene privado.
 
-Descarga el ZIP para Windows x64 y su archivo SHA-256 desde Releases. Extrae todo el ZIP y abre `KemperRigOrganizer/KemperRigOrganizer.exe`, conservando los archivos que lo acompañan. Incluye el runtime de .NET y cinco manuales en la carpeta `Manuales`.
+Descarga el ZIP para Windows x64 y su archivo SHA-256 desde Releases. Extrae todo el ZIP y abre `KemperRigOrganizer/RigOrganizer.exe`, conservando los archivos que lo acompañan. Incluye el runtime de .NET y cinco manuales en la carpeta `Manuales`.
 
 Es una versión de prueba, no una versión estable. Empieza con copias de unos pocos perfiles y utiliza Copiar después de revisar la propuesta. El ejecutable de Windows no tiene firma digital.
 
@@ -33,3 +33,7 @@ Optional support: https://buymeacoffee.com/felixgaral
 ## Trademarks and licenses
 
 Independent, unofficial application. Not affiliated with, sponsored or endorsed by Kemper GmbH. KEMPER and PROFILER are trademarks of Kemper GmbH; other trademarks belong to their respective owners. Packages include the software license, third-party notices and trademark notice. Preserve these notices when sharing a package.
+
+## New in 0.4
+
+WAV IR cataloging, audio properties, documented filename rules for two Tone Junkie TJ3 families, custom IR labels without rewriting WAV files, and five updated manuals. Short WAVs are IR candidates and should be checked before organizing. Other supported file types: Kemper-compatible profiles, performances, presets and cabinets.
