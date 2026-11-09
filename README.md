@@ -26,7 +26,7 @@ Es una versión de prueba, no una versión estable. Empieza con copias de unos p
 
 Search metadata and combine tag filters; save creator and amplifier-brand name mappings; preview folder organization; copy or move files with SHA-256 verification and separate exact duplicates. Original profile metadata is not rewritten. No audio auditioning, sound editing or Profiler control.
 
-No profiles, purchased packs, personal catalogs or user settings are distributed here. macOS builds remain experimental and are not part of this Windows release.
+No profiles, purchased packs, personal catalogs or user settings are distributed here. macOS builds are offered separately as experimental previews for volunteer testing, without real-Mac validation, Developer ID signing or notarization. macOS 14 or later is required.
 
 Optional support: https://buymeacoffee.com/felixgaral
 
@@ -37,3 +37,7 @@ Independent, unofficial application. Not affiliated with, sponsored or endorsed 
 ## New in 0.4
 
 WAV IR cataloging, audio properties, documented filename rules for two Tone Junkie TJ3 families, custom IR labels without rewriting WAV files, and five updated manuals. Short WAVs are IR candidates and should be checked before organizing. Other supported file types: Kemper-compatible profiles, performances, presets and cabinets.
+
+## Experimental Mac downloads
+
+The 0.4.0-preview.1 prerelease includes separate osx-arm64 (Apple Silicon, M1 or later) and osx-x64 (Intel) ZIPs and checksums. These builds have not been tested on real Mac hardware, are not Developer ID signed or notarized, and macOS may block opening. Test with copies; read the included manuals.
