@@ -4,7 +4,7 @@ Free desktop application for cataloging and organizing Kemper profile files.
 
 **This repository contains public release information and downloadable application packages only. The application source code is maintained separately in a private repository.**
 
-Website: https://kemper-rig-organizer.netlify.app/
+Website: https://rig-organizer.netlify.app/
 
 ## Windows preview
 
